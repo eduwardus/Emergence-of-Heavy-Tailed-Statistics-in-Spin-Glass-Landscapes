@@ -16,9 +16,3 @@ Unlike Graph Laplacian Geometry (M18), spin glass systems do not exhibit a unive
 5. Gap distribution analysis
 6. Tail fitting (power law vs log-normal)
 
-## Reproducibility
-
-Run:
-
-```bash
-bash reproducibility/run_all.sh
