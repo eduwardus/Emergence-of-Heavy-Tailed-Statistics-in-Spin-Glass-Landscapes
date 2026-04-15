@@ -5,7 +5,7 @@ This repository contains the full computational pipeline and results for the ana
 
 ## Main result
 
-Unlike Graph Laplacian Geometry (M18), spin glass systems do not exhibit a universal structural phase transition. Instead, kurtosis affects the statistical distribution of energy gaps, leading to heavy-tailed behavior.
+Unlike Graph Latent Generative models, spin glass systems do not exhibit a universal structural phase transition. Instead, kurtosis affects the statistical distribution of energy gaps, leading to heavy-tailed behavior.
 
 ## Pipeline
 
