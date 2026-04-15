@@ -1,0 +1,11 @@
+# requirements.txt  M19
+# (Spin glass landscapes & kurtosis analysis)
+
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+ipython>=7.0.0         
+tqdm>=4.60.0     # optional    
+
+# Note: google-colab or local automatic detection
