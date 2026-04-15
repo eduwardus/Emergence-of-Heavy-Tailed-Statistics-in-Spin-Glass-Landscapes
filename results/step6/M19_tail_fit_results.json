@@ -1,0 +1,93 @@
+{
+  "experiment": "M19_step6_tail_fitting_corrected",
+  "data_directory": "M19_V3",
+  "timestamp": "2026-04-15T10:14:44",
+  "loading_stats": {
+    "total_archivos": 617,
+    "total_gaps_raw": 617,
+    "total_gaps_filtrados": 348,
+    "total_gaps_cero": 269,
+    "fraccion_gaps_cero": 0.4359805510534846
+  },
+  "global_analysis": {
+    "n_samples": 348,
+    "x_min_p80": 5.559468479169976,
+    "n_tail": 70,
+    "tail_status": "ok",
+    "power_law": {
+      "alpha": 2.5104104934060163,
+      "log_likelihood": -207.5634899861288
+    },
+    "lognormal": {
+      "mu": 2.377574177907647,
+      "sigma": 0.5004337523129916,
+      "log_likelihood": -217.2962861379587
+    },
+    "best_model": "power_law"
+  },
+  "bins": [
+    {
+      "bin_label": "\u03ba \u2208 [0, 5) - Baja a media",
+      "kappa_range": [
+        0,
+        5
+      ],
+      "n_samples": 74,
+      "n_tail": 15,
+      "x_min": 5.115304885101336,
+      "tail_status": "ok",
+      "power_law": {
+        "alpha": 2.4657859364488313,
+        "log_likelihood": -43.981099318443405
+      },
+      "lognormal": {
+        "mu": 2.314464861905475,
+        "sigma": 0.43200532030775934,
+        "log_likelihood": -43.41129029735258
+      },
+      "best_model": "lognormal"
+    },
+    {
+      "bin_label": "\u03ba \u2208 [5, 20) - Media a alta",
+      "kappa_range": [
+        5,
+        20
+      ],
+      "n_samples": 181,
+      "n_tail": 37,
+      "x_min": 5.778269168120659,
+      "tail_status": "ok",
+      "power_law": {
+        "alpha": 2.5812224217834103,
+        "log_likelihood": -108.34813786875117
+      },
+      "lognormal": {
+        "mu": 2.386526283079005,
+        "sigma": 0.4535354040077537,
+        "log_likelihood": -111.54696627080332
+      },
+      "best_model": "power_law"
+    },
+    {
+      "bin_label": "\u03ba \u2208 [20, 100) - Muy alta",
+      "kappa_range": [
+        20,
+        100
+      ],
+      "n_samples": 93,
+      "n_tail": 19,
+      "x_min": 5.052732257182602,
+      "tail_status": "ok",
+      "power_law": {
+        "alpha": 2.343936768956822,
+        "log_likelihood": -58.299762825256096
+      },
+      "lognormal": {
+        "mu": 2.364011763837412,
+        "sigma": 0.6399206883880706,
+        "log_likelihood": -63.394245984474495
+      },
+      "best_model": "power_law"
+    }
+  ]
+}
