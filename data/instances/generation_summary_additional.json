@@ -1,0 +1,1222 @@
+{
+  "experiment": "M19_additional_instances",
+  "timestamp": "2026-04-07T22:37:04.694079",
+  "n_new_instances": 200,
+  "total_instances": 700,
+  "generation_time_minutes": 0.09039547443389892,
+  "kappa_stats": {
+    "min": 1.5870561268784416,
+    "max": 999.3058579292334,
+    "mean": 51.25859081050831,
+    "std": 147.64462288034252,
+    "median": 14.125451234455792
+  },
+  "kappa_categories": {
+    "kappa_muy_alto": 74,
+    "kappa_alto": 68,
+    "kappa_medio_alto": 32,
+    "kappa_medio": 26
+  },
+  "new_instances": [
+    {
+      "name": "instance_gaussian_mixture_k5.39_seed601419833.npz",
+      "kappa": 5.391981818303677,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k13.98_seed601420703.npz",
+      "kappa": 13.978328156354856,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k16.63_seed601426954.npz",
+      "kappa": 16.625846442115638,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k5.51_seed601430601.npz",
+      "kappa": 5.513921346612978,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_laplace_k2.16_seed601425276.npz",
+      "kappa": 2.160300172845621,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k999.31_seed601427686.npz",
+      "kappa": 999.3058579292334,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k5.03_seed601425810.npz",
+      "kappa": 5.028901802043325,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k7.45_seed601427800.npz",
+      "kappa": 7.4464470538541025,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k5.64_seed601433468.npz",
+      "kappa": 5.64316140045722,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k3.35_seed601433284.npz",
+      "kappa": 3.3452227377896016,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k22.86_seed601434735.npz",
+      "kappa": 22.85639144815139,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.88_seed601436039.npz",
+      "kappa": 2.8797254702218984,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k6.81_seed601434294.npz",
+      "kappa": 6.814661741732889,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k5.3_seed601439641.npz",
+      "kappa": 5.297998837882163,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k3.3_seed601437881.npz",
+      "kappa": 3.3041407918796244,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k10.8_seed601436465.npz",
+      "kappa": 10.800185513289192,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k9.44_seed601442102.npz",
+      "kappa": 9.435464062996305,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k80.6_seed601445199.npz",
+      "kappa": 80.60088018919795,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.83_seed601443576.npz",
+      "kappa": 2.8304433835508016,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k9.72_seed601444933.npz",
+      "kappa": 9.720335829254283,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k35.7_seed601441601.npz",
+      "kappa": 35.70019131597242,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k19.25_seed601444017.npz",
+      "kappa": 19.25066344405237,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.47_seed601449963.npz",
+      "kappa": 2.473213684574059,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k22.96_seed601450966.npz",
+      "kappa": 22.957710376812766,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k15.42_seed601447656.npz",
+      "kappa": 15.424994769778788,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k914.5_seed601449097.npz",
+      "kappa": 914.4977374232988,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k44.33_seed601450776.npz",
+      "kappa": 44.32604859350613,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k16.48_seed601446690.npz",
+      "kappa": 16.481796712467602,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k33.29_seed601451152.npz",
+      "kappa": 33.29195767192767,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.06_seed601452603.npz",
+      "kappa": 2.0554177182385915,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k43.69_seed601452279.npz",
+      "kappa": 43.69455160529396,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k6.36_seed601460182.npz",
+      "kappa": 6.364021090382664,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k13.37_seed601452189.npz",
+      "kappa": 13.371661948234898,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k4.41_seed601455258.npz",
+      "kappa": 4.407341801163839,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k6.24_seed601454351.npz",
+      "kappa": 6.243563994820237,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k19.07_seed601462285.npz",
+      "kappa": 19.067438609731116,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k4.38_seed601464185.npz",
+      "kappa": 4.375516368260171,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k208.3_seed601464006.npz",
+      "kappa": 208.30315601846365,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.44_seed601467539.npz",
+      "kappa": 2.4375848033908625,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k26.11_seed601462654.npz",
+      "kappa": 26.105616998228374,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k4.59_seed601463544.npz",
+      "kappa": 4.586659226481178,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k81.99_seed601461489.npz",
+      "kappa": 81.99286874329955,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k2.94_seed601466363.npz",
+      "kappa": 2.9386505272860637,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k15.05_seed601471141.npz",
+      "kappa": 15.050747141682368,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k85.8_seed601471758.npz",
+      "kappa": 85.80060083607621,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k5.59_seed601474801.npz",
+      "kappa": 5.594091755547293,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k7.19_seed601473744.npz",
+      "kappa": 7.1901761069754855,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k7.89_seed601475024.npz",
+      "kappa": 7.8948827380035524,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k15.82_seed601477395.npz",
+      "kappa": 15.820695264280378,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k8.86_seed601469409.npz",
+      "kappa": 8.862221994816338,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_laplace_k2.13_seed601472106.npz",
+      "kappa": 2.132039999925298,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k33.9_seed601478840.npz",
+      "kappa": 33.89994211169968,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k8.38_seed601474500.npz",
+      "kappa": 8.384498317814584,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k17.61_seed601474490.npz",
+      "kappa": 17.611647645707407,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_laplace_k2.72_seed601474431.npz",
+      "kappa": 2.7226771471849798,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k13.87_seed601482136.npz",
+      "kappa": 13.872900063017951,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k78.66_seed601481825.npz",
+      "kappa": 78.66478683335136,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k18.73_seed601479233.npz",
+      "kappa": 18.729676476876634,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k21.66_seed601482405.npz",
+      "kappa": 21.655563301450503,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k19.76_seed601483202.npz",
+      "kappa": 19.762259246035924,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k18.63_seed601487001.npz",
+      "kappa": 18.631301787151013,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k4.91_seed601488151.npz",
+      "kappa": 4.911993594391347,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k28.08_seed601488763.npz",
+      "kappa": 28.07998107252351,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k8.15_seed601488826.npz",
+      "kappa": 8.147086816047198,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k6.61_seed601487206.npz",
+      "kappa": 6.608498342109311,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k5.23_seed601489703.npz",
+      "kappa": 5.226554522374627,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k119.75_seed601487676.npz",
+      "kappa": 119.75218839552453,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k9.36_seed601493247.npz",
+      "kappa": 9.359346483345089,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k983.44_seed601489220.npz",
+      "kappa": 983.4391173071506,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k28.8_seed601498069.npz",
+      "kappa": 28.797404497100388,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k10.88_seed601499338.npz",
+      "kappa": 10.876723254838298,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k621.56_seed601497139.npz",
+      "kappa": 621.5557674928136,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k5.64_seed601493290.npz",
+      "kappa": 5.640142603464035,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k4.59_seed601497526.npz",
+      "kappa": 4.585752563270573,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k43.16_seed601494616.npz",
+      "kappa": 43.15939552545178,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k8.4_seed601504870.npz",
+      "kappa": 8.396082463433256,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k11.78_seed601502244.npz",
+      "kappa": 11.77950546848466,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k5.36_seed601499825.npz",
+      "kappa": 5.361124749142743,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k17.69_seed601501376.npz",
+      "kappa": 17.685264418196386,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k138.4_seed601508122.npz",
+      "kappa": 138.3950456089522,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k714.43_seed601501383.npz",
+      "kappa": 714.4305709010179,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k8.59_seed601508268.npz",
+      "kappa": 8.591240923809815,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k9.22_seed601507466.npz",
+      "kappa": 9.224610762277793,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k12.94_seed601513024.npz",
+      "kappa": 12.936937696963147,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k39.86_seed601511731.npz",
+      "kappa": 39.855184248577785,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k10.38_seed601512690.npz",
+      "kappa": 10.37666815903289,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k14.43_seed601507429.npz",
+      "kappa": 14.434226015828127,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k15.26_seed601512807.npz",
+      "kappa": 15.263687099371538,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k17.03_seed601517890.npz",
+      "kappa": 17.030314082343125,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k21.73_seed601510863.npz",
+      "kappa": 21.727390771049937,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k58.75_seed601520033.npz",
+      "kappa": 58.748676063503524,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k476.41_seed601514952.npz",
+      "kappa": 476.4056985749073,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k5.88_seed601519421.npz",
+      "kappa": 5.88349704885275,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k21.46_seed601516021.npz",
+      "kappa": 21.46438690480716,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k4.83_seed601518607.npz",
+      "kappa": 4.830717228644448,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k9.78_seed601519495.npz",
+      "kappa": 9.784286566997741,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k38.07_seed601524783.npz",
+      "kappa": 38.07194195733405,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k9.96_seed601518233.npz",
+      "kappa": 9.960876638224969,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k23.35_seed601523920.npz",
+      "kappa": 23.352007801384545,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_laplace_k3.44_seed601523800.npz",
+      "kappa": 3.4439521541883265,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k27.28_seed601525011.npz",
+      "kappa": 27.281488822161638,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k3.87_seed601526001.npz",
+      "kappa": 3.8748790000308997,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k8.1_seed601529987.npz",
+      "kappa": 8.10446856767178,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_laplace_k8.09_seed601529656.npz",
+      "kappa": 8.088830650220121,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k6.15_seed601530565.npz",
+      "kappa": 6.153260294452,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k13.14_seed601525799.npz",
+      "kappa": 13.144424994920833,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k53.41_seed601533381.npz",
+      "kappa": 53.40952295201219,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k16.88_seed601534661.npz",
+      "kappa": 16.884617118515273,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k35.33_seed601534198.npz",
+      "kappa": 35.325808186700115,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k7.42_seed601534635.npz",
+      "kappa": 7.417041678354613,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k43.65_seed601532830.npz",
+      "kappa": 43.647347017981616,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k18.41_seed601540707.npz",
+      "kappa": 18.406947832208207,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k11.32_seed601536063.npz",
+      "kappa": 11.323782776009237,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k4.2_seed601535704.npz",
+      "kappa": 4.2045309273530345,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k33.62_seed601535694.npz",
+      "kappa": 33.62322062780397,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k2.63_seed601542895.npz",
+      "kappa": 2.6267337273284417,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_laplace_k1.85_seed601542454.npz",
+      "kappa": 1.851560498202148,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k8.17_seed601540593.npz",
+      "kappa": 8.172124199150707,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k3.77_seed601546181.npz",
+      "kappa": 3.7655098376329734,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_laplace_k2.35_seed601548247.npz",
+      "kappa": 2.34617779080554,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k18.95_seed601547886.npz",
+      "kappa": 18.94652064391571,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k11.21_seed601551207.npz",
+      "kappa": 11.213131980792916,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k31.91_seed601544425.npz",
+      "kappa": 31.907300064974628,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k14.14_seed601544216.npz",
+      "kappa": 14.139396841858726,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k8.99_seed601548694.npz",
+      "kappa": 8.992155861344077,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_laplace_k1.59_seed601553242.npz",
+      "kappa": 1.5870561268784416,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k6.5_seed601556627.npz",
+      "kappa": 6.499460626570668,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k22.87_seed601549774.npz",
+      "kappa": 22.869017540399895,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k6.26_seed601552883.npz",
+      "kappa": 6.260635055542581,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k21.49_seed601554774.npz",
+      "kappa": 21.491539400399763,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k177.52_seed601558741.npz",
+      "kappa": 177.51752983142464,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k26.89_seed601561954.npz",
+      "kappa": 26.886559154479475,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k6.98_seed601553511.npz",
+      "kappa": 6.975386484343703,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k10.36_seed601555357.npz",
+      "kappa": 10.36373464558847,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k439.25_seed601557443.npz",
+      "kappa": 439.24988971429394,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k6.43_seed601562444.npz",
+      "kappa": 6.431783164833323,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k24.38_seed601565882.npz",
+      "kappa": 24.38355305000769,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k6.47_seed601559005.npz",
+      "kappa": 6.471887164971735,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k14.13_seed601566134.npz",
+      "kappa": 14.13242183835645,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k14.23_seed601561262.npz",
+      "kappa": 14.225633635582948,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k14.17_seed601564516.npz",
+      "kappa": 14.172527310764828,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k12.73_seed601562410.npz",
+      "kappa": 12.727214440895052,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k13.18_seed601563578.npz",
+      "kappa": 13.176066584250783,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k22.43_seed601570520.npz",
+      "kappa": 22.428972693324464,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k17.01_seed601568067.npz",
+      "kappa": 17.01273480423575,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k447.06_seed601574275.npz",
+      "kappa": 447.0637012538807,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k29.37_seed601575119.npz",
+      "kappa": 29.365488002652704,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k88.26_seed601576505.npz",
+      "kappa": 88.25748290404576,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k17.55_seed601572768.npz",
+      "kappa": 17.54980259384274,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k10.71_seed601573717.npz",
+      "kappa": 10.711145798241736,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k7.35_seed601576963.npz",
+      "kappa": 7.347136159955676,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k34.22_seed601581407.npz",
+      "kappa": 34.22160732319386,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k17.58_seed601582300.npz",
+      "kappa": 17.575181292035424,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k35.43_seed601583036.npz",
+      "kappa": 35.43020925046219,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k16.64_seed601583051.npz",
+      "kappa": 16.642629402190284,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k30.67_seed601580833.npz",
+      "kappa": 30.672071364893803,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_laplace_k3.28_seed601579396.npz",
+      "kappa": 3.2839819033083186,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_gaussian_mixture_k16.76_seed601586171.npz",
+      "kappa": 16.75955666084329,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k91.5_seed601586398.npz",
+      "kappa": 91.50214935479693,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k5.34_seed601583229.npz",
+      "kappa": 5.337779438067312,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k18.3_seed601587302.npz",
+      "kappa": 18.303610256735947,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k3.83_seed601584983.npz",
+      "kappa": 3.8263645694776836,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k13.48_seed601586553.npz",
+      "kappa": 13.481722922594969,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k5.67_seed601592001.npz",
+      "kappa": 5.669932749374176,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k15.62_seed601587649.npz",
+      "kappa": 15.624028853797604,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k67.69_seed601592619.npz",
+      "kappa": 67.69365303977023,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k28.42_seed601594249.npz",
+      "kappa": 28.41941670836471,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k12.57_seed601593243.npz",
+      "kappa": 12.571318875252707,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k7.68_seed601592781.npz",
+      "kappa": 7.675503387179356,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k25.25_seed601596140.npz",
+      "kappa": 25.246554498997533,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k573.21_seed601600802.npz",
+      "kappa": 573.2055053840828,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k8.31_seed601600885.npz",
+      "kappa": 8.306651624093746,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k15.21_seed601597151.npz",
+      "kappa": 15.20829773297066,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k8.02_seed601603733.npz",
+      "kappa": 8.020029235753508,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k105.57_seed601603106.npz",
+      "kappa": 105.5677451027623,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_laplace_k3.1_seed601598934.npz",
+      "kappa": 3.099509560667065,
+      "dist_type": "laplace",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k31.96_seed601601474.npz",
+      "kappa": 31.959301558697447,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k34.19_seed601599050.npz",
+      "kappa": 34.18761884842312,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k5.62_seed601600434.npz",
+      "kappa": 5.615061876266358,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k14.75_seed601608203.npz",
+      "kappa": 14.748887245134743,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k15.01_seed601602401.npz",
+      "kappa": 15.00537212662077,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k72.82_seed601610117.npz",
+      "kappa": 72.82181485823456,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k18.16_seed601609250.npz",
+      "kappa": 18.164143374466704,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k11.99_seed601611344.npz",
+      "kappa": 11.993076587582966,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k9.81_seed601615217.npz",
+      "kappa": 9.810590564040155,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k4.04_seed601615771.npz",
+      "kappa": 4.036488764584065,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k14.12_seed601613950.npz",
+      "kappa": 14.118480630555133,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k7.6_seed601609392.npz",
+      "kappa": 7.5979935988393805,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k14.97_seed601610782.npz",
+      "kappa": 14.97255427047481,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k8.84_seed601620781.npz",
+      "kappa": 8.83716992604883,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k14.43_seed601615297.npz",
+      "kappa": 14.425975799200849,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_student_t_k51.67_seed601620318.npz",
+      "kappa": 51.674275226386285,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k31.32_seed601622200.npz",
+      "kappa": 31.321072389830363,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k3.02_seed601619973.npz",
+      "kappa": 3.0150623269520533,
+      "dist_type": "student_t",
+      "category": "kappa_medio_alto"
+    },
+    {
+      "name": "instance_student_t_k54.51_seed601619144.npz",
+      "kappa": 54.51231046771596,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_student_t_k38.33_seed601619462.npz",
+      "kappa": 38.3308009637962,
+      "dist_type": "student_t",
+      "category": "kappa_muy_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k7.49_seed601619463.npz",
+      "kappa": 7.49208007988277,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_medio"
+    },
+    {
+      "name": "instance_student_t_k3.47_seed601625841.npz",
+      "kappa": 3.471444194626107,
+      "dist_type": "student_t",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k20.68_seed601628041.npz",
+      "kappa": 20.677248810935996,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_alto"
+    },
+    {
+      "name": "instance_gaussian_mixture_k30.39_seed601630110.npz",
+      "kappa": 30.392069129774583,
+      "dist_type": "gaussian_mixture",
+      "category": "kappa_muy_alto"
+    }
+  ]
+}
